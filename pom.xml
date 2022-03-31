@@ -50,7 +50,7 @@
     <version.com.squareup.moshi>1.8.0</version.com.squareup.moshi>
     <version.org.apache.johnzon>1.1.12</version.org.apache.johnzon>
     <version.org.junit.jupiter>5.4.2</version.org.junit.jupiter>
-    <version.org.springframework.boot>2.1.6.RELEASE</version.org.springframework.boot>
+    <version.org.springframework.boot>2.5.12</version.org.springframework.boot>
     <version.jsonrpc-bind>0.4.1-SNAPSHOT</version.jsonrpc-bind>
     <version.jsonrpc-bind-jackson>0.1.0-SNAPSHOT</version.jsonrpc-bind-jackson>
   </properties>
